@@ -11,6 +11,7 @@ class GoStats(AgentCheck):
         'cgo_call_num',
         'goroutine_num',
         'gomaxprocs',
+        'memory_alloc',
         'memory_total_alloc',
         'memory_lookups',
         'memory_mallocs',
