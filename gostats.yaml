@@ -1,0 +1,7 @@
+# sample config file.
+# please modify it as needed.
+init_config:
+
+instances:
+  -  gostats_url: http://localhost:8080/api/stats
+      

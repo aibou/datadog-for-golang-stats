@@ -18,3 +18,5 @@ and put `gostats.yaml` to:
     /opt/datadog-agent/etc/conf.d/
     
 ## Restart datadog-agent and confirm 
+
+![](./screenshot.png)
